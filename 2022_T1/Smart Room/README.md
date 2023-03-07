@@ -1,7 +1,7 @@
 # Smart Room
 
 <a href="https://youtu.be/fYYlXLLgSNY">
-<img width="300" src="https://img.youtube.com/vi/fYYlXLLgSNY/0.jpg" alt="Smart Room"/>
+<img width="300" src="https://img.youtube.com/vi/fYYlXLLgSNY/1.jpg" alt="Smart Room"/>
   <p>Link para vídeo</p>
 </a>
 <p>
