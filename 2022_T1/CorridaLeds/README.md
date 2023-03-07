@@ -1,10 +1,10 @@
-# Jogo da Memória
+# Corrida de Leds
 
-<a href="https://youtu.be/kRShIfrXS2U">
-<img width="300" src="https://img.youtube.com/vi/kRShIfrXS2U/0.jpg" alt="Jogo da Memória"/>
+<a href="https://youtu.be/wfZYiOxqCjE">
+<img width="300" src="https://img.youtube.com/vi/wfZYiOxqCjE/0.jpg" alt="Corrida de Leds"/>
   <p>Link para vídeo</p>
 </a>
 <p>
   Projeto desenvolvido no âmbito da ação de formação - <b>Programação com Arduinos da ANPRI</b> (Associação de Professores de Informática)<br>
-  <b>Créditos:</b> Ana Isabel Santos
+  <b>Créditos:</b> Clara Anunciação
 </p>
